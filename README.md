@@ -19,7 +19,7 @@ It combines fun visual feedback with practical habit tracking, motivating you to
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tu-usuario/pixel-habit-tracker.git
+git clone https://github.com/ItziChao/pixel-habit-tracker.git
 
 2. Open index.html in your browser.
 
